@@ -1,0 +1,38 @@
+{
+  "A1234": {
+    "name": "Captain Price",
+    "title": "CEO",
+    "reports": [
+      "A1235",
+      "A1236"
+    ]
+  },
+  "A1235": {
+    "name": "Sargent Bacon",
+    "title": "Lead Engineer",
+    "reports": [
+      "A1237"
+    ]
+  },
+  "A1236": {
+    "name": "Axel A",
+    "title": "HR",
+    "reports": [
+      "A1237"
+    ]
+  },
+  "A1237": {
+    "name": "Tortilla S",
+    "title": "Junior Engineer",
+    "reports": [
+      "A1238"
+    ]
+  },
+  "A1238": {
+    "name": "Ernie S",
+    "title": "Bean",
+    "reports": [
+      ""
+    ]
+  }
+}
